@@ -2,7 +2,7 @@
 ## ¿Que es TypeScript?
 	Es un gran conjunto de nuevas funcionalidades, además de las funcionalidades que ya incluye ES6 y JavaScript. 
 
-	[![ts.jpg](https://i.postimg.cc/wvVFk2wX/ts.jpg)](https://postimg.cc/628dWrJq)
+[![ts.jpg](https://i.postimg.cc/wvVFk2wX/ts.jpg)](https://postimg.cc/628dWrJq)
 
 ## Ventajas y Desventajas
 ### Ventajas
